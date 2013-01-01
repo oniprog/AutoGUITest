@@ -1,0 +1,36 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+*.sdf
+*.suo
+*.opensdf
+*.docx
+
+*.exe
+*.dll
+*.obj
+
+obj/
+release/
+debug/
+
+tmp/
+result/
+bin/
+ipch/
+
+TestScript/test_result.html
+
+SampleGUITest/test1.png
+SampleGUITest/test2.png
